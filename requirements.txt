@@ -1,0 +1,13 @@
+# Dependências do projeto Dashboard de Vendas por País
+
+# Análise de dados
+pandas>=2.0.0
+
+# Visualização de dados
+plotly>=5.15.0
+
+# Interface web
+streamlit>=1.28.0
+
+# Dependências opcionais para melhor performance
+numpy>=1.24.0
